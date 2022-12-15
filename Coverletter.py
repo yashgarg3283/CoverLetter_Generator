@@ -3,7 +3,7 @@ import json
 import streamlit as st 
 
 print("** Loading API Key")
-ai.api_key = "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"
+ai.api_key = "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"
 
 st.title("Yash's Guide To Job Apps")
 st.markdown("# Cover Letter Generator 🎈")
